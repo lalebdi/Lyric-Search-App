@@ -45,6 +45,14 @@ class Lyrics extends Component {
                                 <p className="card-text">{lyrics.lyrics_body}</p>
                             </div>
                         </div>
+                        <ul className="list-group mt-3">
+                            <li className="list-group-item">
+                                <strong>Album ID </strong> : {track.album_id}
+                            </li>
+                            <li className="list-group-item" >
+                                    <strong>Explicit</strong>: {track.explicit === 0 ? "No" : "Yes"}
+                            </li>
+                        </ul>
                 </React.Fragment>
                 )
             
