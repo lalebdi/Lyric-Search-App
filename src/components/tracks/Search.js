@@ -27,6 +27,7 @@ class Search extends Component {
                                 <input type="text" className="form-control form-control-lg" placeholder="song title..." name="trackTitle" value={this.state.trackTitle} onChange={this.onChange} />
                             </div>
                         </form>
+                        <button className="btn btn-primary btn-lg btn-block mb-5" type="submit">Search</button>
                     </div>
                 }}
             </Consumer>
