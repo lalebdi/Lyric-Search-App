@@ -89,7 +89,7 @@ const API_KEY = 'ENTER YOUR API';
 
 The app has been deployed
 
-_please refer to the [Documentation](https://example.com)_
+_please refer to the [live site](https://example.com)_
 
 
 
