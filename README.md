@@ -33,6 +33,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
+<img width="1212" alt="Screen Shot 2020-10-16 at 4 36 13 PM" src="https://user-images.githubusercontent.com/67381036/96306516-cd2e2d80-0fcd-11eb-84c4-e7edca3a7ae5.png">
 
 
 An awesome app to find the lyrics to your favorite song.
