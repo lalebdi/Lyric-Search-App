@@ -89,7 +89,7 @@ const API_KEY = 'ENTER YOUR API';
 
 To be deployed soon
 
-<!-- _For more examples, please refer to the [Documentation](https://example.com)_ -->
+_For more examples, please refer to the [Documentation](https://example.com)_
 
 
 
