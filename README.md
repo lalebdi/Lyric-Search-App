@@ -89,7 +89,7 @@ const API_KEY = 'ENTER YOUR API';
 
 The app has been deployed
 
-_please refer to the [live site]()_
+_please refer to the [live site](https://priceless-darwin-b90877.netlify.app)_
 
 
 
