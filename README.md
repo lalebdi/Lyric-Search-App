@@ -33,7 +33,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot]
+
 
 An awesome app to find the lyrics to your favorite song.
 
