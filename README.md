@@ -87,7 +87,7 @@ const API_KEY = 'ENTER YOUR API';
 <!-- USAGE EXAMPLES -->
 ## Usage
 
-To be deployed soon
+The app has been deployed
 
 _For more examples, please refer to the [Documentation](https://example.com)_
 
