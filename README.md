@@ -72,7 +72,7 @@ You will also see any lint errors in the console.
 1. Get a free API Key at [https://developer.musixmatch.com/](https://developer.musixmatch.com/)
 2. Clone the repo
 ```sh
-git clone https://github.com/lalebdi/Lyric-Search-App
+git clone https://github.com/lalebdi/Lyric-Search-App.git
 ```
 3. Install NPM packages
 ```sh
